@@ -1,5 +1,3 @@
-# ANL251 Python Programming
-
 ### Research Question: Is Sweden’s no-lockdown strategy effective in managing the implications of the coronavirus (“COVID-19”) pandemic?
 
 ## ABSTRACT
